@@ -98,7 +98,3 @@ GET api/products
 * No invertir mas de 5 horas en el transcurso de 2 dias.  
 * No es necesario cumplir con todos los puntos, queremos ver en el caso de tener poco tiempo cuales son los items que priorizas.  
 * Hacer varios commits, no un solo commit, ya que es un elemento a evaluar.  
-* Al finalizar se debe enviar el repo a los siguientes correos:  
->kevin@plataforma.io  
->ro@plataforma.io  
->juan@plataforma.io  
